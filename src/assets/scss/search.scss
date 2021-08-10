@@ -1,0 +1,31 @@
+.z-search{
+  padding: 0px 0px 0px 0px;
+  position: absolute;
+  right: 10px;
+  min-width: 270px;
+  max-width: 350px;
+}
+
+.z-search>input{
+  position: relative;
+  background: rgba(255, 255, 255, .3) !important;
+  box-shadow: none !important;
+}
+.z-search-input{
+    color: #FFFFFF !important;
+    padding-left: 25px; 
+}
+.z-search-input::placeholder {
+    color: #FFFFFF !important;
+    opacity: .5;
+    position: absolute;
+    margin-left: 10px;
+}
+  
+.z-search>span{
+  position: absolute;
+  z-index: 1000;
+  top: 10px;
+  left: 6px;
+  color: white;
+}

@@ -1,8 +1,8 @@
 {
-  "name": "zebrands_reactjs",
+  "name": "test_mx_reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.zebrands.mx",
+  "homepage": "https://localhost",
   "dependencies": {
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",

@@ -7,19 +7,19 @@
 
 ## Git
 ```bash
-git clone https://github.com/jcarrizalez/zebrands_reactjs.git;
+git clone https://github.com/jcarrizalez/test_mx_reactjs.git;
 ```
 
 ## Configuration
 
 Configura las variables de entorno a usar como dirección de la API, entre otras.
 ```bash
-zebrands_reactjs/
+test_mx_reactjs/
 ├── .env
 ```
 Puerto por defecto: PORT=4000
 ```bash
-zebrands_reactjs/
+test_mx_reactjs/
 ├── package.json
 ```
 ## Installation
@@ -41,7 +41,7 @@ $ npm run build-local
 ## Structure
 
 ```bash
-zebrands_reactjs/
+test_mx_reactjs/
 ├── .env
 ├── README.md
 ├── package.json
